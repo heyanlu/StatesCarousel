@@ -33,6 +33,10 @@ Start the development server:
 npx expo start
 ```
 
-
+## Features
+#### Horizontal Scrolling (Swipeable Cards)
+#### Touch Feedback on Selection
+#### Arrow Navigation
+#### Dynamic Data from Backend
 <img width="264" alt="image" src="https://github.com/user-attachments/assets/8a37c7ae-85ab-49e8-89e0-6dfa07569ef3">
 
